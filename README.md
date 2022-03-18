@@ -4,6 +4,10 @@
 
 
 
+## Bayesian analysis for integrating multi-source data
+- Ray, P., Zheng, L., Lucas, J., & Carin, L. (2014). Bayesian joint analysis of heterogeneous genomics data. Bioinformatics, 30(10), 1370-1376.
+
+
 ## References Using Variational Inference
 - Clustering -- Raj, A., Stephens, M., & Pritchard, J. K. (2014). fastSTRUCTURE: variational inference of population structure in large SNP data sets. Genetics, 197(2), 573-589.
 - 
