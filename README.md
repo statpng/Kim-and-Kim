@@ -1,11 +1,12 @@
 ## On the penalized regression: A Bayesian perspective
 ### Literature Review
 
-1. Chen L, Huang JZ. Sparse Reduced-Rank Regression for Simultaneous Dimension Reduction and Variable Selection. Journal of the American Statistical Association. 2012;107(500):1533-1545. doi:10.1080/01621459.2012.734178
+1. Chen, Lisha, and Jianhua Z. Huang. 2012. “Sparse Reduced-Rank Regression for Simultaneous Dimension Reduction and Variable Selection.” Journal of the American Statistical Association 107(500): 1533–45.
 2. Hilafu H, Safo SE, Haine L. Sparse reduced-rank regression for integrating omics data. BMC Bioinformatics. 2020;21(1):283. doi:10.1186/s12859-020-03606-2
-3. Marttinen P, Pirinen M, Sarin AP, et al. Assessing multivariate gene-metabolome associations with rare variants using Bayesian reduced rank regression. Bioinformatics. 2014;30(14):2026-2034. doi:10.1093/bioinformatics/btu140
-4. Goh G, Dey DK, Chen K. Bayesian sparse reduced rank multivariate regression. Journal of Multivariate Analysis. 2017;157:14-28. doi:10.1016/j.jmva.2017.02.007
-5. Yang D, Goh G, Wang H. A fully Bayesian approach to sparse reduced-rank multivariate regression. Statistical Modelling. Published online September 25, 2020:1471082X2094869. doi:10.1177/1471082X20948697
+3. Marttinen, Pekka et al. 2014. “Assessing Multivariate Gene-Metabolome Associations with Rare Variants Using Bayesian Reduced Rank Regression.” Bioinformatics 30(14): 2026–34.
+4. Goh, Gyuhyeong, Dipak K. Dey, and Kun Chen. 2017. “Bayesian Sparse Reduced Rank Multivariate Regression.” Journal of Multivariate Analysis 157: 14–28.
+5. Yang, Dunfu, Gyuhyeong Goh, and Haiyan Wang. 2020. “A Fully Bayesian Approach to Sparse Reduced-Rank Multivariate Regression.” Statistical Modelling: 1471082X2094869.
+
 
 
 
