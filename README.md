@@ -1,4 +1,4 @@
-## 1. Bayesian Sparse Reduced Rank Regression for Variable Selection
+## 1. Bayesian sparse reduced rank regression for high-dimensional genomic data with correlated outcomes
 
 ### Non-RRR
 1. Shi, Xingjie et al. 2019. “VIMCO: Variational Inference for Multiple Correlated Outcomes in Genome-Wide Association Studies” ed. Russell Schwartz. Bioinformatics 35(19): 3693–3700.
