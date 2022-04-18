@@ -1,3 +1,24 @@
+## 1. Bayesian Sparse Reduced Rank Regression for Variable Selection
+
+### Non-RRR
+1. Shi, Xingjie et al. 2019. “VIMCO: Variational Inference for Multiple Correlated Outcomes in Genome-Wide Association Studies” ed. Russell Schwartz. Bioinformatics 35(19): 3693–3700.
+
+### Non-Bayesian
+1. Chen, Lisha, and Jianhua Z. Huang. 2012. “Sparse Reduced-Rank Regression for Simultaneous Dimension Reduction and Variable Selection.” Journal of the American Statistical Association 107(500): 1533–45.
+2. Hilafu, Haileab, Sandra E. Safo, and Lillian Haine. 2020. “Sparse Reduced-Rank Regression for Integrating Omics Data.” BMC Bioinformatics 21(1): 283.
+
+### Bayesian
+1. Chakraborty, Antik, Anirban Bhattacharya, and Bani K Mallick. 2020. “Bayesian Sparse Multiple Regression for Simultaneous Rank Reduction and Variable Selection.” Biometrika 107(1): 205–21.
+2. Goh, Gyuhyeong, Dipak K. Dey, and Kun Chen. 2017. “Bayesian Sparse Reduced Rank Multivariate Regression.” Journal of Multivariate Analysis 157: 14–28.
+3. Marttinen, Pekka et al. 2014. “Assessing Multivariate Gene-Metabolome Associations with Rare Variants Using Bayesian Reduced Rank Regression.” Bioinformatics 30(14): 2026–34.
+4. Wenming Zheng. 2014. “Multi-View Facial Expression Recognition Based on Group Sparse Reduced-Rank Regression.” IEEE Transactions on Affective Computing 5(1): 71–85.
+5. Yang, Dunfu, Gyuhyeong Goh, and Haiyan Wang. 2020. “A Fully Bayesian Approach to Sparse Reduced-Rank Multivariate Regression.” Statistical Modelling: 1471082X2094869.
+6. Zhu, Hongtu, Zakaria Khondker, Zhaohua Lu, and Joseph G. Ibrahim. 2014. “Bayesian Generalized Low Rank Regression Models for Neuroimaging Phenotypes and Genetic Markers.” Journal of the American Statistical Association 109(507): 977–90.
+
+
+
+
+
 ## On the penalized regression: A Bayesian perspective
 ### Literature Review
 
