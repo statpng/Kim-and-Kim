@@ -9,6 +9,7 @@
 
 ### Bayesian
 1. Chakraborty, Antik, Anirban Bhattacharya, and Bani K Mallick. 2020. “Bayesian Sparse Multiple Regression for Simultaneous Rank Reduction and Variable Selection.” Biometrika 107(1): 205–21.
+
 -> They induce the sparsity on each row of C after estimating the coefficient matrix C = B*At.
 2. Goh, Gyuhyeong, Dipak K. Dey, and Kun Chen. 2017. “Bayesian Sparse Reduced Rank Multivariate Regression.” Journal of Multivariate Analysis 157: 14–28.
 3. Marttinen, Pekka et al. 2014. “Assessing Multivariate Gene-Metabolome Associations with Rare Variants Using Bayesian Reduced Rank Regression.” Bioinformatics 30(14): 2026–34.
